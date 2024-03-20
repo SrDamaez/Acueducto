@@ -1,4 +1,4 @@
-# Acueducto
+**Acueducto**
 
 ## CONFIGURACIÓN DEL ENTORNO CONDA
 
@@ -6,12 +6,12 @@
 - conda create --name "acueducto" python
 
 **2. Activar el entorno:**
-- conda activate acueducto 
----
-**Una vez en el entorno instalar todo lo necesario con el siguiente comando:**
+- conda activate acueducto
+
+**3. Instalar requisitos:**
 - pip install -r requerimientos.txt
----
-**CUENTAS REGISTRADAS:**
+
+## CUENTAS REGISTRADAS:
 
 - *SUPER ADMIN*
   + correo: superadmin@gmail.com
@@ -19,13 +19,13 @@
 
 - *ADMIN*
 
-  + correo: mateo@gmail.com	
-  + contra: mateo1904
+  + correo: admin@gmail.com	
+  + contra: adso
 
 - *TECNICO*
-  + correo: mateo@gmail.com	
-  + contra: mateo1904
+  + correo: tecnico@gmail.com	
+  + contra: adso
 
 - *SUSCRIPTOR*
-  + correo: braulio@gmail.com
-  + contra: braulio123
+  + correo: suscriptor@gmail.com
+  + contra: adso
