@@ -13,18 +13,18 @@
 ---
 **CUENTAS REGISTRADAS:**
 
--*SUPER ADMIN*
+- *SUPER ADMIN*
 correo: superadmin@gmail.com
 contra: adso
 
--*ADMIN*
+- *ADMIN*
 correo: mateo@gmail.com	
 contra: mateo1904
 
--*TECNICO*
+- *TECNICO*
 correo: mateo@gmail.com	
 contra: mateo1904
 
--*SUSCRIPTOR*
+- *SUSCRIPTOR*
 correo:braulio@gmail.com
 contra:braulio123
