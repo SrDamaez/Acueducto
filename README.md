@@ -3,8 +3,8 @@
 ## CONFIGURACIÓN DEL ENTORNO CONDA
 
 **1. Crear el entorno conda:**
-- create conda --name "acueducto" python
-- 
+- conda create --name "acueducto" python
+
 **2. Activar el entorno:**
 - conda activate acueducto 
 ---
