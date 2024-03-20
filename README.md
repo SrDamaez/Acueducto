@@ -14,8 +14,7 @@
 **CUENTAS REGISTRADAS:**
 
 - *SUPER ADMIN*
-
--- correo: superadmin@gmail.com
++ correo: superadmin@gmail.com
 contra: adso
 
 - *ADMIN*
