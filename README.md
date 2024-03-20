@@ -27,5 +27,5 @@
   + contra: mateo1904
 
 - *SUSCRIPTOR*
-  + correo:braulio@gmail.com
-  + contra:braulio123
+  + correo: braulio@gmail.com
+  + contra: braulio123
