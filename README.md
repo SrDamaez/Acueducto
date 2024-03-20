@@ -14,13 +14,13 @@
 **CUENTAS REGISTRADAS:**
 
 - *SUPER ADMIN*
-  
-correo: superadmin@gmail.com
+
+-- correo: superadmin@gmail.com
 contra: adso
 
 - *ADMIN*
 
-correo: mateo@gmail.com	
+-- correo: mateo@gmail.com	
 contra: mateo1904
 
 - *TECNICO*
