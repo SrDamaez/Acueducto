@@ -12,6 +12,7 @@
 - pip install -r requerimientos.txt
 ---
 **CUENTAS REGISTRADAS:**
+
 -*SUPER ADMIN*
 correo: superadmin@gmail.com
 contra: adso
