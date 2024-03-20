@@ -15,17 +15,17 @@
 
 - *SUPER ADMIN*
   + correo: superadmin@gmail.com
-contra: adso
+  + contra: adso
 
 - *ADMIN*
 
--- correo: mateo@gmail.com	
-contra: mateo1904
+  + correo: mateo@gmail.com	
+  + contra: mateo1904
 
 - *TECNICO*
-correo: mateo@gmail.com	
-contra: mateo1904
+  + correo: mateo@gmail.com	
+  + contra: mateo1904
 
 - *SUSCRIPTOR*
-correo:braulio@gmail.com
-contra:braulio123
+  + correo:braulio@gmail.com
+  + contra:braulio123
