@@ -1,5 +1,7 @@
 # Acueducto
 
+Aplicación para el sena de gestión de acueductos, documentación y legalización
+
 ## CONFIGURACIÓN DEL ENTORNO CONDA
 
 **1. Crear el entorno conda:**
